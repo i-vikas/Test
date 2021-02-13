@@ -7,5 +7,8 @@ public class Test {
 		Utility util = new Utility();
 		System.out.println(util.getSysDate());
 	}
+	public void m1() {
+		System.out.println("Test.m1()");
+	}
 
 }
